@@ -1,1 +1,3 @@
 .venv/
+artifacts/data_ingestion/data.zip
+research/Chest-CT-Scan-data.zip
