@@ -1,0 +1,8 @@
+learning_rate: 0.001
+batch_size: 32
+num_epochs: 10
+dropout_rate: 0.5
+optimizer: adam
+input_shape: [224, 224, 3]
+num_classes: 2
+random_seed: 42
