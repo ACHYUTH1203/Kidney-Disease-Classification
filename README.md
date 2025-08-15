@@ -12,3 +12,13 @@ Kidney-Disease-Classification-MLflow-DVC
 8. Update the main.py
 9. Update the dvc.yaml
 10. app.py
+
+#dagshub
+
+import dagshub
+dagshub.init(repo_owner='ACHYUTH1203', repo_name='Kidney-Disease-Classification', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+mlflow.log_param('parameter name', 'value')
+mlflow.log_metric('metric name', 1)

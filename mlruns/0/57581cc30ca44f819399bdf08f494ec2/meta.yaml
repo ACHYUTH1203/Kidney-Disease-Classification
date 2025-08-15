@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/DeepLearning/Kidney-Disease-Classification/mlruns/0/57581cc30ca44f819399bdf08f494ec2/artifacts
+end_time: 1755047419609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57581cc30ca44f819399bdf08f494ec2
+run_name: fearless-vole-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755047404854
+status: 3
+tags: []
+user_id: achyu
